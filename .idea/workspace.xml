@@ -3,11 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="04a86016-010a-4cc7-b876-64d2db39bcf1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Forecast.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Forecast.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +39,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.deploy">
+  <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
       <method v="2" />
     </configuration>
@@ -94,7 +90,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586627778801</updated>
-      <workItem from="1586627780432" duration="15831000" />
+      <workItem from="1586627780432" duration="16586000" />
     </task>
     <servers />
   </component>
@@ -106,21 +102,21 @@
       <screen x="0" y="23" width="1680" height="972" />
     </state>
     <state x="578" y="263" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.972@0.23.1680.972" timestamp="1586829720462" />
-    <state width="1659" height="295" key="GridCell.Tab.0.bottom" timestamp="1586831065951">
+    <state width="1659" height="295" key="GridCell.Tab.0.bottom" timestamp="1586831608835">
       <screen x="0" y="23" width="1680" height="972" />
     </state>
-    <state width="1659" height="295" key="GridCell.Tab.0.bottom/0.23.1680.972@0.23.1680.972" timestamp="1586831065951" />
-    <state width="1659" height="295" key="GridCell.Tab.0.center" timestamp="1586831065951">
+    <state width="1659" height="295" key="GridCell.Tab.0.bottom/0.23.1680.972@0.23.1680.972" timestamp="1586831608835" />
+    <state width="1659" height="295" key="GridCell.Tab.0.center" timestamp="1586831608834">
       <screen x="0" y="23" width="1680" height="972" />
     </state>
-    <state width="1659" height="295" key="GridCell.Tab.0.center/0.23.1680.972@0.23.1680.972" timestamp="1586831065951" />
-    <state width="1659" height="295" key="GridCell.Tab.0.left" timestamp="1586831065949">
+    <state width="1659" height="295" key="GridCell.Tab.0.center/0.23.1680.972@0.23.1680.972" timestamp="1586831608834" />
+    <state width="1659" height="295" key="GridCell.Tab.0.left" timestamp="1586831608834">
       <screen x="0" y="23" width="1680" height="972" />
     </state>
-    <state width="1659" height="295" key="GridCell.Tab.0.left/0.23.1680.972@0.23.1680.972" timestamp="1586831065949" />
-    <state width="1659" height="295" key="GridCell.Tab.0.right" timestamp="1586831065951">
+    <state width="1659" height="295" key="GridCell.Tab.0.left/0.23.1680.972@0.23.1680.972" timestamp="1586831608834" />
+    <state width="1659" height="295" key="GridCell.Tab.0.right" timestamp="1586831608834">
       <screen x="0" y="23" width="1680" height="972" />
     </state>
-    <state width="1659" height="295" key="GridCell.Tab.0.right/0.23.1680.972@0.23.1680.972" timestamp="1586831065951" />
+    <state width="1659" height="295" key="GridCell.Tab.0.right/0.23.1680.972@0.23.1680.972" timestamp="1586831608834" />
   </component>
 </project>
