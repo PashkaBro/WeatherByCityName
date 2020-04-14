@@ -38,7 +38,7 @@ function App(props) {
         axios.get(`https://api.openweathermap.org/data/2.5/weather?q=${input}&APPID=23115c617732be5077c954f6e8f4d9e6`)
             .then(function (response) {
                 FormatedData(response);
-                console.log(input);
+                console.log(response);
             })
             .catch(function (error) {
                 setTodo(<div>
